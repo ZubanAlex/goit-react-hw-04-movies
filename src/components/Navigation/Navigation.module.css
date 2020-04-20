@@ -1,0 +1,11 @@
+.list {
+  list-style: none;
+  width: 100px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.link {
+  text-decoration: none;
+  color: red;
+}
